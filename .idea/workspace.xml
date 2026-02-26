@@ -23,7 +23,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7d6658-d011-469b-baad-fd53691d8e9d" name="更改" comment="" />
+    <list default="true" id="6a7d6658-d011-469b-baad-fd53691d8e9d" name="更改" comment="WJU system" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +44,15 @@
     </selectedModels>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Calc1te/GEB.git",
+    "accountId": "8b6552a5-bc25-4659-9cb6-53632195454b"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="oFthV8kZ" />
   </component>
@@ -75,6 +84,7 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,8 +117,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772087879834</updated>
-      <workItem from="1772087881293" duration="7969000" />
+      <workItem from="1772087881293" duration="8325000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1772100528218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772100528218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="WJU system">
+      <option name="closed" value="true" />
+      <created>1772100617899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772100617899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +145,22 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="WJU system" />
+    <option name="LAST_COMMIT_MESSAGE" value="WJU system" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
